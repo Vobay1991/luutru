@@ -3,11 +3,9 @@
 
 
 
-
 #EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/06/14/17/0adc634d/0adc634d-51b1-4ab8-ab8a-986f278c850f_360_540.jpg",Bộ Ba Vệ Sĩ
 http://vod-zlr2.tv360.vn/video1/2022/06/15/09/964fb5a7/964fb5a7-52c3-4ed1-84e9-463f428cd95f_5_.m3u8
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/06/14/17/3e24c76c/3e24c76c-9a33-4de2-997b-e9e8c3122422_360_540.jpg",Cuộc Săn Tử Thần 
-https://vod07-http://vod-zlr2.tv360.vn/video1/2022/06/15/10/bb0beeec/bb0beeec-80e9-4596-b14b-74df2d7ddbd1_5_.m3u8
+
 #EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/05/31/02/31fdbf30/31fdbf30-5429-4c1f-b7b4-0ea2fe5402f1_360_540.jpg",Hellboy - Hellboy
 http://vod-zlr2.tv360.vn/video1/2022/05/31/02/2054f6af/2054f6af-4182-4850-81e8-8bf8bc25f485_5_.m3u8
 #EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/07/01/14/63add87a/63add87a-3bc2-48e2-826f-bb43fb66bc4e_360_540.jpg",Nữ Sinh Bắt Ma
@@ -18,56 +16,9 @@ https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210202/gaixauxienkhon
 https://vod07-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220705/exit_final_trailer/a7c7ad37de0b90ef9ee1b3fe68d5f78c_1080p.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/06/22/nhung-ke-bat-bai-fpt-play-1655866434669_Portrait_origin.jpg",Những Kẻ Bất Bại
 https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20220704/denofthieves-2018-us-1080p-logofptplay-sub-v2/d880a6bca3913815a69548405b45136a-1080p.mp4/playlist.m3u8
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://vcv60b6khlvod.vcdn.cloud/MAM/VTC/HOP_TAC/PHIM_LE/2022/01/29/ME_CHONG/Thumbnail/30012022110742/110742_Phim_Me_chong_ngang_320_180.jpg",MẸ CHỒNG
-https://vcv60b6khlvod.vcdn.cloud/MAM/VTC/HOP_TAC/PHIM_LE/2022/01/29/ME_CHONG/224845_ME_CHONG.mp4
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://vcv60b6khlvod.vcdn.cloud/MAM/VTC/HOP_TAC/PHIM_LE/2021/02/09/KUNG_FU_PHO/Thumbnail/11022021104517/104519_KUNGFU_PHO_320_180.jpg",KUNGFU PHỞ
-https://vcv60b6khlvod.vcdn.cloud//mam/vtc/hop_tac/phim_le/2021/02/09/kung_fu_pho/hls/1080p/1080p.m3u8
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://vcv60b6khlvod.vcdn.cloud/MAM/VTC/HOP_TAC/PHIM_LE/2021/02/09/LONG_QUYEN_TIEU_TU/Thumbnail/11022021104449/104451_LONG_QUYEN_TIEU_TU_320_180.jpg",LONG QUYỀN TIỂU TỬ
-https://vcv60b6khlvod.vcdn.cloud//mam/vtc/hop_tac/phim_le/2021/02/09/long_quyen_tieu_tu/hls/720p/720p.m3u8
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://vcv60b6khlvod.vcdn.cloud/MAM/VTC/HOP_TAC/PHIM_LE/2021/02/10/PHIMTET_DAOTACDAICHIEN/Thumbnail/11022021104322/104324_DAO_TAC_DAI_CHIEN_320_180.jpg",ĐẠO TẶC ĐẠI CHIẾN
-https://vcv60b6khlvod.vcdn.cloud//mam/vtc/hop_tac/phim_le/2021/02/10/phimtet_daotacdaichien/hls/1080p/1080p.m3u8
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://vcv60b6khlvod.vcdn.cloud/MAM/VTC/HOP_TAC/PHIM_LE/2021/02/09/VE_QUE_AN_TET/Thumbnail/11022021104114/104115_VE_QUE_AN_TET_320_180.jpg",VỀ QUÊ ĂN TẾT
-https://vcv60b6khlvod.vcdn.cloud//mam/vtc/hop_tac/phim_le/2021/02/09/ve_que_an_tet/hls/1080p/1080p.m3u8
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://vcv60b6khlvod.vcdn.cloud/MAM/VTC/HOP_TAC/PHIM_LE/2022/01/30/GANG_TAY_DO/Thumbnail/30012022111826/111826_Phim_Gang_tay_do_320_180.jpg",Găng tay đỏ
-https://vcv60b6khlvod.vcdn.cloud/MAM/VTC/HOP_TAC/PHIM_LE/2022/01/30/GANG_TAY_DO/111345_GANG_TAY_DO.mp4
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://vcv60b6khlvod.vcdn.cloud/MAM/VTC/HOP_TAC/PHIM_LE/2022/01/30/VUOT_NGUC/Thumbnail/30012022123100/123100_Phim_Vuot_nguc_320_180.jpg",VƯỢT NGỤC
-https://vcv60b6khlvod.vcdn.cloud/MAM/VTC/HOP_TAC/PHIM_LE/2022/01/30/VUOT_NGUC/111346_VUOT_NGUC.mp4
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://vcv60b6khlvod.vcdn.cloud/MAM/VTC/HOP_TAC/PHIM_LE/2020/08/31/DIEP_HAI_PHONG_VAN/thumbnail/31082020155924/155926_diep_hai_phong_vanthumb_320_180.jpg",ĐIỆP HẢI PHONG VÂN
-https://vcv60b6khlvod.vcdn.cloud//mam/vtc/hop_tac/phim_le/2020/08/31/diep_hai_phong_van/hls/1080p/1080p.m3u8
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://vcv60b6khlvod.vcdn.cloud/MAM/VTC/HOP_TAC/PHIM_LE/2020/11/08/TRAN_CHIEN_CUOI_CUNG/thumbnail/08112020153442/153441_tran_chien_cuoi_cungt_320_180.jpg",
-https://vcv60b6khlvod.vcdn.cloud//mam/vtc/hop_tac/phim_le/2020/11/08/tran_chien_cuoi_cung/hls/720p/720p.m3u8
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://vcv60b6khlvod.vcdn.cloud/MAM/VTC/HOP_TAC/PHIM_LE/2020/12/14/VU_CUOP_O_PINEVILLE/Image/091044_thumbnail_320_180.jpg",
-https://vcv60b6khlvod.vcdn.cloud//mam/vtc/hop_tac/phim_le/2020/12/14/vu_cuop_o_pineville/hls/720p/720p.m3u8
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://vcv60b6khlvod.vcdn.cloud/MAM/VTC/HOP_TAC/PHIM_LE/2020/11/16/MANG_DOI_MANG/Image/152410_thumbnail_320_180.jpg",MẠNG ĐÔI MẠNG
-https://vcv60b6khlvod.vcdn.cloud//mam/vtc/hop_tac/phim_le/2020/11/16/mang_doi_mang/hls/720p/720p.m3u8
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://vcv60b6khlvod.vcdn.cloud/MAM/VTC/HOP_TAC/PHIM_LE/2020/08/31/CHIEN_LANG/thumbnail/31082020151539/151541_chien_langt_320_180.jpg",CHIẾN LAN
-https://vcv60b6khlvod.vcdn.cloud//mam/vtc/hop_tac/phim_le/2020/08/31/chien_lang/hls/1080p/1080p.m3u8
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://vcv60b6khlvod.vcdn.cloud/MAM/VTC/HOP_TAC/PHIM_LE/2021/06/02/THOAT_KHOI_THE_GIOI_NGAM/Thumbnail/02062021130346/130349_thoat_khoi_the_gioi_ngamt_320_180.jpg",THOÁT KHỎI THẾ GIỚI
-https://vcv60b6khlvod.vcdn.cloud//mam/vtc/hop_tac/phim_le/2021/06/02/thoat_khoi_the_gioi_ngam/hls/1080p/1080p.m3u8
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://vcv60b6khlvod.vcdn.cloud/MAM/VTC/HOP_TAC/PHIM_LE/2021/05/26/HIEU_LENH_TAP_KET/Thumbnail/26052021182017/182018_hieu_lenh_tap_kett_320_180.jpg",HIỆU LỆNH TẬP KẾT
-https://vcv60b6khlvod.vcdn.cloud//mam/vtc/hop_tac/phim_le/2021/05/26/hieu_lenh_tap_ket/hls/1080p/1080p.m3u8
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://vcv60b6khlvod.vcdn.cloud/MAM/VTC/HOP_TAC/PHIM_LE/2021/05/04/THOI_KHAC_SONG_CON/Thumbnail/04052021161332/161330_thoi_khac_song_cont_320_180.jpg",THỜI KHẮC SỐNG
-https://vcv60b6khlvod.vcdn.cloud//mam/vtc/hop_tac/phim_le/2021/05/04/thoi_khac_song_con/hls/1080p/1080p.m3u8
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://vcv60b6khlvod.vcdn.cloud/MAM/VTC/HOP_TAC/PHIM_LE/2021/04/12/NGUOI_CHET_BAO_THU/Thumbnail/12042021152407/152409_nguoi_chet_bao_thut_320_180.jpg",NGƯỜI CHẾT BÁO THÙ
-https://vcv60b6khlvod.vcdn.cloud//mam/vtc/hop_tac/phim_le/2021/04/12/nguoi_chet_bao_thu/hls/1080p/1080p.m3u8
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://vcv60b6khlvod.vcdn.cloud/MAM/VTC/HOP_TAC/PHIM_LE/2021/04/12/QUYET_DAU/Thumbnail/12042021151825/151827_quyet_daut_320_180.jpg",QUYẾT ĐẤU
-https://vcv60b6khlvod.vcdn.cloud//mam/vtc/hop_tac/phim_le/2021/04/12/quyet_dau/hls/1080p/1080p.m3u8
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://vcv60b6khlvod.vcdn.cloud/MAM/VTC/HOP_TAC/PHIM_LE/2021/03/30/TU_CHIEN_DAI_HADES/Thumbnail/30032021172623/172625_tu_chien_dai_hadesthumb_320_180.jpg",TỬ CHIẾN ĐÀI
-https://vcv60b6khlvod.vcdn.cloud//mam/vtc/hop_tac/phim_le/2021/03/30/tu_chien_dai_hades/hls/1080p/1080p.m3u8
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://vcv60b6khlvod.vcdn.cloud/MAM/VTC/HOP_TAC/PHIM_LE/2021/03/21/TRO_CHOI_SINH_TU/Thumbnail/22032021152606/152605_tro_choi_sinh_tuthumb_320_180.jpg",TRÒ CHƠI XINH TỬ
-https://vcv60b6khlvod.vcdn.cloud//mam/vtc/hop_tac/phim_le/2021/03/21/tro_choi_sinh_tu/hls/1080p/1080p.m3u8
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://vcv60b6khlvod.vcdn.cloud/MAM/VTC/HOP_TAC/PHIM_LE/2021/02/21/TOI_LA_AI/Thumbnail/21022021190238/190239_toi_la_ai_320_180.jpg",TÔI LA AI
-https://vcv60b6khlvod.vcdn.cloud//mam/vtc/hop_tac/phim_le/2021/02/21/toi_la_ai/hls/1080p/1080p.m3u8
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://vcv60b6khlvod.vcdn.cloud/MAM/VTC/HOP_TAC/PHIM_LE/2021/01/17/DIEP_VU_KHA_THI/Thumbnail/28012021142028/142028_diep_vu_kha_thit_320_180.jpg",ĐIỆP VỤ KHẢ KHI
-https://vcv60b6khlvod.vcdn.cloud//mam/vtc/hop_tac/phim_le/2021/01/17/diep_vu_kha_thi/hls/720p/720p.m3u8
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://vcv60b6khlvod.vcdn.cloud/MAM/VTC/HOP_TAC/PHIM_LE/2021/02/09/VO_SI_NHI/Thumbnail/11022021104819/104821_VO_SI_NHI_320_180.jpg",VỎ SỈ NÍ
-https://vcv60b6khlvod.vcdn.cloud//mam/vtc/hop_tac/phim_le/2021/02/09/vo_si_nhi/hls/1080p/1080p.m3u8
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://vcv60b6khlvod.vcdn.cloud/MAM/VTC/HOP_TAC/PHIM_LE/2021/02/10/DIEP_VIEN_NGOAI_GIO/Custom/11022021101712/101713_DIEP_VIEN_NGOAI_GIO_320_180.jpg",ĐIỆP VIÊN NGOÀI GIỜ
-https://vcv60b6khlvod.vcdn.cloud//mam/vtc/hop_tac/phim_le/2021/02/10/diep_vien_ngoai_gio/hls/1080p/1080p.m3u8
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://vcv60b6khlvod.vcdn.cloud/MAM/VTC/HOP_TAC/PHIM_LE/2020/11/06/NHUNG_KE_SONG_SOT/Image/112056_thumbnail_320_180.jpg",NHỮNG KẺ SÓNG SÓT
-https://vcv60b6khlvod.vcdn.cloud//mam/vtc/hop_tac/phim_le/2020/11/06/nhung_ke_song_sot/hls/720p/720p.m3u8
-#EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="https://vcv60b6khlvod.vcdn.cloud/MAM/VTC/HOP_TAC/PHIM_LE/2020/12/31/KHONG_THE_QUAY_LAI/Thumbnail/31122020124622/124621_khong_the_quay_lait_320_180.jpg",KHÔNG THỂ QUAY LẠI
-https://vcv60b6khlvod.vcdn.cloud//mam/vtc/hop_tac/phim_le/2020/12/31/khong_the_quay_lai/hls/720p/720p.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-id="BÌNH LUẬN VIÊN" group-title="👉 PHIM LẺ VÕ PHÚ📺" tvg-logo="http://img-zlr1.tv360.vn/image1/2022/06/14/17/7b2f855c/7b2f855c-9821-423b-86bb-6bdd891e1133_360_540.jpg",Cậu Bé Người Gỗ Pinocchio 
