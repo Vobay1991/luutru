@@ -6,9 +6,6 @@
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://hongthuy.tk.hongthuy.tk/playxembd.php?id=sevilla-vs-valencia-luc-00h00-ngay-19-10-2022&.m3u8
 
-#EXTINF:-1 group-title="🥎 ĐANG TRỰC TIẾP 👉 BÓNG ĐÁ 🥎" tvg-logo="https://i.imgur.com/1XrKWYD.jpg",HD RB Leipzig  Hamburger SV
-#EXTVLCOPT:http-referrer=https://live.saoketvs.online/
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x5y4-2223/playlist.m3u8
 #EXTINF:-1 group-title="🥎 ĐANG TRỰC TIẾP 👉 BÓNG ĐÁ 🥎" tvg-logo="https://i.imgur.com/1XrKWYD.jpg",HD Sevilla  Valencia
 #EXTVLCOPT:http-referrer=https://live.saoketvs.online/
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x68y4-1238/playlist.m3u8
