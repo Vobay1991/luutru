@@ -2,43 +2,10 @@
 #EXTINF: list TV
 
 
-#EXTINF:-1 group-title="🥎 ĐANG TRỰC TIẾP 👉 BÓNG ĐÁ 🥎" tvg-logo="https://i.imgur.com/GNjr7eL.jpg",HD 1 Viettel - Hoang Anh Gia Lai 
-#EXTVLCOPT:http-referrer=https://tructiep.caheo6.com/truc-tiep/
-https://caheofake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@canochd1/playlist.m3u8
-
-
 #EXTINF:-1 group-title="🥎 ĐANG TRỰC TIẾP 👉 BÓNG ĐÁ 🥎" tvg-logo="https://i.imgur.com/Wybv0DD.jpg",Viettel - Hoang Anh Gia Lai 
-
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://hongthuy.tk.hongthuy.tk/playxembd.php?id=viettel-vs-hoang-anh-gia-lai-luc-19h15-ngay-18-10-2022&.m3u8
 
 #EXTINF:-1 group-title="🥎 ĐANG TRỰC TIẾP 👉 BÓNG ĐÁ 🥎" tvg-logo="https://i.imgur.com/1XrKWYD.jpg",HD Viettel  Hoang Anh Gia Lai
 #EXTVLCOPT:http-referrer=https://live.saoketvs.online/
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x1y4-2207/playlist.m3u8
-
-#EXTINF:-1 group-title="🥎 ĐANG TRỰC TIẾP 👉 BÓNG ĐÁ 🥎" tvg-logo="https://i.imgur.com/cZgXqgI.jpg",HD 1 Viettel - Hoang Anh Gia Lai   
-#EXTVLCOPT:http-referrer=https://xem.rakhoi2.com/truc-tiep/
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@xachvuahd1/playlist.m3u8
-#EXTINF:-1 group-title="🥎 ĐANG TRỰC TIẾP 👉 BÓNG ĐÁ 🥎" tvg-logo="https://i.imgur.com/JRfvlKv.jpg",SD 1 Viettel - Hoang Anh Gia Lai   
-#EXTVLCOPT:http-referrer=https://xem.rakhoi2.com/truc-tiep/
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@xachvuasd1/playlist.m3u8
-
-
-
-
-#EXTINF:-1 group-title="🏀  TRỰC TIẾP 👉  BÓNG ĐÁ HÔM NAY" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/743070_small.png",19h15 18/10  Viettel - Hoang Anh Gia Lai  Cá Nóc
-#EXTVLCOPT:http-referrer=https://tructiep.caheo6.com/truc-tiep/
-https://hongthuy.tk.hongthuy.tk/playcaheo.php?id=634e76d642c78e05c5867ac8&.m3u8
-#EXTINF:-1 group-title="🏀  TRỰC TIẾP 👉  BÓNG ĐÁ HÔM NAY" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",00h00 19/10  Sevilla - Valencia  Cá Nóc
-#EXTVLCOPT:http-referrer=https://tructiep.caheo6.com/truc-tiep/
-https://hongthuy.tk.hongthuy.tk/playcaheo.php?id=634e776842c78e05c5867b0e&.m3u8
-#EXTINF:-1 group-title="🏀  TRỰC TIẾP 👉  BÓNG ĐÁ HÔM NAY" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",01h30 19/10  Brighton - Nottm Forest  Cá Sấu
-#EXTVLCOPT:http-referrer=https://tructiep.caheo6.com/truc-tiep/
-https://hongthuy.tk.hongthuy.tk/playcaheo.php?id=634e77ca42c78e05c5867b25&.m3u8
-#EXTINF:-1 group-title="🏀  TRỰC TIẾP 👉  BÓNG ĐÁ HÔM NAY" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",02h00 19/10  Atletico Madrid - Rayo Vallecano  Xi Măng
-#EXTVLCOPT:http-referrer=https://tructiep.caheo6.com/truc-tiep/
-https://hongthuy.tk.hongthuy.tk/playcaheo.php?id=634e780142c78e05c5867b43&.m3u8
-#EXTINF:-1 group-title="🏀  TRỰC TIẾP 👉  BÓNG ĐÁ HÔM NAY" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",02h15 19/10  Crystal Palace - Wolves  Cá Chuối
-#EXTVLCOPT:http-referrer=https://tructiep.caheo6.com/truc-tiep/
-https://hongthuy.tk.hongthuy.tk/playcaheo.php?id=634e785542c78e05c5867b7b&.m3u8
-
-
