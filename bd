@@ -2,9 +2,6 @@
 #EXTINF: list TV
 
 
-#EXTINF:-1 group-title="🥎 ĐANG TRỰC TIẾP 👉 BÓNG ĐÁ 🥎" tvg-logo="https://i.imgur.com/GNjr7eL.jpg",HD 1 Binh Dinh - Hong Linh Ha Tinh 
-#EXTVLCOPT:http-referrer=https://tructiep.caheo6.com/truc-tiep/
-https://caheofake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@thoxayhd1/playlist.m3u8
 #EXTINF:-1 group-title="🥎 ĐANG TRỰC TIẾP 👉 BÓNG ĐÁ 🥎" tvg-logo="https://i.imgur.com/GNjr7eL.jpg",HD 1 Viettel - Hoang Anh Gia Lai 
 #EXTVLCOPT:http-referrer=https://tructiep.caheo6.com/truc-tiep/
 https://caheofake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@canochd1/playlist.m3u8
@@ -18,12 +15,6 @@ https://hongthuy.tk.hongthuy.tk/playxembd.php?id=viettel-vs-hoang-anh-gia-lai-lu
 #EXTVLCOPT:http-referrer=https://live.saoketvs.online/
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x1y4-2207/playlist.m3u8
 
-#EXTINF:-1 group-title="🥎 ĐANG TRỰC TIẾP 👉 BÓNG ĐÁ 🥎" tvg-logo="https://i.imgur.com/cZgXqgI.jpg",HD 1 Binh Dinh - Hong Linh Ha Tinh   
-#EXTVLCOPT:http-referrer=https://xem.rakhoi2.com/truc-tiep/
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8
-#EXTINF:-1 group-title="🥎 ĐANG TRỰC TIẾP 👉 BÓNG ĐÁ 🥎" tvg-logo="https://i.imgur.com/JRfvlKv.jpg",SD 1 Binh Dinh - Hong Linh Ha Tinh   
-#EXTVLCOPT:http-referrer=https://xem.rakhoi2.com/truc-tiep/
-https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8
 #EXTINF:-1 group-title="🥎 ĐANG TRỰC TIẾP 👉 BÓNG ĐÁ 🥎" tvg-logo="https://i.imgur.com/cZgXqgI.jpg",HD 1 Viettel - Hoang Anh Gia Lai   
 #EXTVLCOPT:http-referrer=https://xem.rakhoi2.com/truc-tiep/
 https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@xachvuahd1/playlist.m3u8
@@ -34,9 +25,6 @@ https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@xachvuasd1/play
 
 
 
-#EXTINF:-1 group-title="🏀  TRỰC TIẾP 👉  BÓNG ĐÁ HÔM NAY" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/1151181_small.png",18h00 18/10  Binh Dinh - Hong Linh Ha Tinh  Thợ Xây
-#EXTVLCOPT:http-referrer=https://tructiep.caheo6.com/truc-tiep/
-https://hongthuy.tk.hongthuy.tk/playcaheo.php?id=634e76cb42c78e05c5867abe&.m3u8
 #EXTINF:-1 group-title="🏀  TRỰC TIẾP 👉  BÓNG ĐÁ HÔM NAY" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/743070_small.png",19h15 18/10  Viettel - Hoang Anh Gia Lai  Cá Nóc
 #EXTVLCOPT:http-referrer=https://tructiep.caheo6.com/truc-tiep/
 https://hongthuy.tk.hongthuy.tk/playcaheo.php?id=634e76d642c78e05c5867ac8&.m3u8
