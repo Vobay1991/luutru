@@ -2,17 +2,8 @@
 #EXTINF: list TV
 
 
-#EXTINF:-1 group-title="🥎 ĐANG TRỰC TIẾP 👉 BÓNG ĐÁ 🥎" tvg-logo="https://i.imgur.com/Wybv0DD.jpg",Hannover 96 - Borussia Dortmund 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://hongthuy.tk.hongthuy.tk/playxembd.php?id=hannover-96-vs-borussia-dortmund-luc-23h00-ngay-19-10-2022&.m3u8
 
-#EXTINF:-1 group-title="🥎 ĐANG TRỰC TIẾP 👉 BÓNG ĐÁ 🥎" tvg-logo="https://i.imgur.com/iCj0R4R.jpg", đang trực tiếp   Hannover 96 - Borussia Dortmund   
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://hongthuy.tk.hongthuy.tk/playsegay.php?id=hannover-96-vs-borussia-dortmund-luc-23h00-ngay-19-10-2022&.m3u8
 
-#EXTINF:-1 group-title="🥎 ĐANG TRỰC TIẾP 👉 BÓNG ĐÁ 🥎" tvg-logo="https://i.imgur.com/1XrKWYD.jpg",HD Hannover 96  Dortmund
-#EXTVLCOPT:http-referrer=https://live.saoketvs.online/
-https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x0y4-1132/playlist.m3u8
 #EXTINF:-1 group-title="🥎 ĐANG TRỰC TIẾP 👉 BÓNG ĐÁ 🥎" tvg-logo="https://i.imgur.com/1XrKWYD.jpg",HD Cadiz  Real Betis
 #EXTVLCOPT:http-referrer=https://live.saoketvs.online/
 https://live.zeuscdn.live/live/_definst_/stream_1_4831b@x3y4-0112/playlist.m3u8
