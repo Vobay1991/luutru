@@ -2,6 +2,9 @@
 #EXTINF: list TV
 
 
+#EXTINF:-1 group-title="🥎 ĐANG TRỰC TIẾP 👉 BÓNG ĐÁ 🥎" tvg-logo="https://i.imgur.com/Wybv0DD.jpg",Ho Chi Minh City - Ha Noi 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://hongthuy.tk.hongthuy.tk/playxembd.php?id=ho-chi-minh-city-vs-ha-noi-luc-19h15-ngay-19-10-2022&.m3u8
 #EXTINF:-1 group-title="🥎 ĐANG TRỰC TIẾP 👉 BÓNG ĐÁ 🥎" tvg-logo="https://i.imgur.com/Wybv0DD.jpg",Hai Phong - Binh Duong 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://hongthuy.tk.hongthuy.tk/playxembd.php?id=hai-phong-vs-binh-duong-luc-18h00-ngay-19-10-2022&.m3u8
