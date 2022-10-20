@@ -2,5 +2,8 @@
 #EXTINF: list TV
 
 
+#EXTINF:-1 group-title="🥎 ĐANG TRỰC TIẾP 👉 BÓNG ĐÁ 🥎" tvg-logo="https://i.imgur.com/Wybv0DD.jpg",Bóng đá Huế - Bà Ria Vũng Tàu 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://hongthuy.tk.hongthuy.tk/playxembd.php?id=bong-da-hue-vs-ba-ria-vung-tau-luc-16h00-ngay-20-10-2022&.m3u8
 
 
