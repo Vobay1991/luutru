@@ -1,6 +1,22 @@
 #EXTM3U 
 #EXTINF: list TV
 
+
+#EXTINF:-1 tvg-id="KÊNH PHÁT BÓNG ĐÁ WORLD CÚP 2022" group-title="👉 KÊNH PHÁT BÓNG ĐÁ WORLD CÚP 2022" tvg-logo="https://i.imgur.com/gyXjxI3.jpg",VTV CẦN THƠ
+https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtvcanthohd/chunklist_b5128000.m3u8
+
+#EXTINF:-1 tvg-id="KÊNH PHÁT BÓNG ĐÁ WORLD CÚP 2022" group-title="👉 KÊNH PHÁT BÓNG ĐÁ WORLD CÚP 2022" tvg-logo="https://i.imgur.com/VGdNq75.jpg",VTV2
+https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtv2hd/chunklist_b5128000.m3u8
+
+#EXTINF:-1 tvg-id="KÊNH PHÁT BÓNG ĐÁ WORLD CÚP 2022" group-title="👉 KÊNH PHÁT BÓNG ĐÁ WORLD CÚP 2022" tvg-logo="https://i.imgur.com/jNaK7Uj.jpg",VTV3
+https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtv3hd/chunklist_b5128000.m3u8
+
+#EXTINF:-1 tvg-id="KÊNH PHÁT BÓNG ĐÁ WORLD CÚP 2022" group-title="👉 KÊNH PHÁT BÓNG ĐÁ WORLD CÚP 2022" tvg-logo="https://i.imgur.com/uiAd6WA.jpg",VTV5
+https://106135605.vws.vegacdn.vn/cliptv_live/amlst:vtv5hd/chunklist_b5128000.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="BÓNG ĐÁ TƯỜNG THUẬT" group-title="👉 BÓNG ĐÁ XEM LẠI 🎥" tvg-logo="https://static.fptplay.net/static/img/share/video/OTT/VOD/2022/11/02/bayern-munich---inter-milan-xemlai_1667338910849.jpg?w=282&amp;mode=scale", HIỆP 1        Bayern Munich - Inter Milan - Champions League       
 https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/20221102/2ac7b0b231a9d4c2decb05258accf544.mp4/chunklist.m3u8
 
