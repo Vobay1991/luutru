@@ -9,7 +9,12 @@ https://vkvd175.mycdn.me/expires/1670194683996/clientType/14/srcIp/27.74.187.145
 https://vkvd48.mycdn.me/expires/1670194828364/clientType/14/srcIp/27.74.187.145/type/2/mid/4090861529222/id/3189365803654/ms/45.136.22.138/srcAg/CHROME/ct/28/sig/fA5zue_4FB4/ondemand/hls2_3189365803654.CIbR5NKHd0j1otCZ______8BUChYDjXxgtQFOe0V.m3u8?m3u8
 #EXTINF:-1 group-title="👉 XEM LẠI BÓNG ĐÁ WORLD CÚP 2022 " tvg-logo="https://sun6-21.userapi.com/_OBlEZ-DQBamqO835qVCtWNx_wmpp-Z00sTOCw/FSRZ4ym5xKY.jpg",Ba Lan - Argentina
 https://vkvd249.mycdn.me/expires/1670194942141/clientType/14/srcIp/27.74.187.145/type/2/mid/4503959709785/id/3269772249689/ms/45.136.20.166/srcAg/CHROME/ct/28/sig/5dN-IM7ICKU/ondemand/hls2_3269772249689.CNnQrMeKgwFI9aLQmf______AVAoWA4Pz7Yg29YmZA==.m3u8?m3u8
-
+#EXTINF:-1 group-title="👉 XEM LẠI BÓNG ĐÁ WORLD CÚP 2022 "tvg-logo="https://223092959.e.cdneverest.net/boxstudio/video/adaptive/2022/12/01/196_196381f8f7d78014791ac3136f0265360c6_1080p-20221201214455/thumb_1.jpg",2022/12/01  TRỰC TIẾP WORLD CUP 2022:CROATIA VS BỈ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://223108787.e.cdneverest.net/boxstudio/video/adaptive/2022/12/01/196_196381f8f7d78014791ac3136f0265360c6_1080p-20221201214455/playlist.m3u8
+#EXTINF:-1 group-title="👉 XEM LẠI BÓNG ĐÁ WORLD CÚP 2022 "tvg-logo="https://223092959.e.cdneverest.net/boxstudio/video/adaptive/2022/12/01/196_196fca6027b8526400396e5170b83739a0a_1080p-20221201130305/thumb_1.jpg",2022/12/01  Đại hội TDTT 2022 - Carom 3C: Quốc Nam vs Văn Tài
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://223108787.e.cdneverest.net/boxstudio/video/adaptive/2022/12/01/196_196fca6027b8526400396e5170b83739a0a_1080p-20221201130305/playlist.m3u8
 
 #EXTINF:-1 group-title="👉 XEM LẠI BÓNG ĐÁ WORLD CÚP 2022 "tvg-logo="https://223092959.e.cdneverest.net/boxstudio/video/adaptive/2022/11/29/196_1964bc0b5b530224ffebf03ed77d9d2705a_1080p-20221129012549/thumb_1.jpg",2022/11/29  BỒ ĐÀO NHA vs URUGUAY (WORLD CUP 2022) | BÌNH LUẬN TRỰC TIẾP
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
