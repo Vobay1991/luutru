@@ -1,7 +1,9 @@
 #EXTM3U 
 #EXTINF: list TV
 
-
+#EXTINF:-1 group-title="👉 XEM LẠI BÓNG ĐÁ WORLD CÚP 2022 "tvg-logo="https://223092959.e.cdneverest.net/boxstudio/video/adaptive/2022/12/04/196_196381f8f7d78014791ac3136f0265360c6_1080p-20221203232600/thumb_1.jpg",2022/12/03  TRỰC TIẾP WORLD CUP 2022:HÀ LAN VS MỸ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://223108787.e.cdneverest.net/boxstudio/video/adaptive/2022/12/04/196_196381f8f7d78014791ac3136f0265360c6_1080p-20221203232600/playlist.m3u8
 
 #EXTINF:-1 group-title="👉 XEM LẠI BÓNG ĐÁ WORLD CÚP 2022 " tvg-logo="https://i.mycdn.me/getVideoPreview?id=3050499410433&idx=13&type=39&tkn=cjasFt-Q2krJ9BElPV2lXjdzTj0&fn=vid_x", Ghana  Uruguay
 https://vkvd38.mycdn.me/expires/1670333597473/clientType/14/srcIp/27.74.187.145/type/2/mid/3926385960961/id/3050499410433/ms/185.226.52.169/srcAg/CHROME/ct/28/sig/-MI6Cd9Vu50/ondemand/hls2_3050499410433.CIHQ3Paicjj16a_sAkj1otCZ______8BUChYDurQ3viX5YY6.m3u8?m3u8
