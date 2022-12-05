@@ -1,6 +1,13 @@
 #EXTM3U 
 #EXTINF: list TV
 
+#EXTINF:-1 group-title="👉 XEM LẠI BÓNG ĐÁ WORLD CÚP 2022 "tvg-logo="https://223092959.e.cdneverest.net/boxstudio/video/adaptive/2022/12/05/196_1964bc0b5b530224ffebf03ed77d9d2705a_1080p-20221204214450/thumb_1.jpg",2022/12/05  BÌNH LUẬN WORLD CUP 2022: PHÁP vs BA LAN | BLV MAI ANH TÀI
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://223108787.e.cdneverest.net/boxstudio/video/adaptive/2022/12/05/196_1964bc0b5b530224ffebf03ed77d9d2705a_1080p-20221204214450/playlist.m3u8
+#EXTINF:-1 group-title="👉 XEM LẠI BÓNG ĐÁ WORLD CÚP 2022 "tvg-logo="https://223092959.e.cdneverest.net/boxstudio/video/adaptive/2022/12/05/196_196381f8f7d78014791ac3136f0265360c6_1080p-20221205014307/thumb_1.jpg",2022/12/05  TRỰC TIẾP WORLD CUP 2022:ANH VS SENEGAL
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://223108787.e.cdneverest.net/boxstudio/video/adaptive/2022/12/05/196_196381f8f7d78014791ac3136f0265360c6_1080p-20221205014307/playlist.m3u8
+
 #EXTINF:-1 group-title="👉 XEM LẠI BÓNG ĐÁ WORLD CÚP 2022 "tvg-logo="https://223092959.e.cdneverest.net/boxstudio/video/adaptive/2022/12/03/196_196381f8f7d78014791ac3136f0265360c6_1080p-20221203214529/thumb_1.jpg",2022/12/03  TRỰC TIẾP WORLD CUP 2022:HÀ LAN VS MỸ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://223108787.e.cdneverest.net/boxstudio/video/adaptive/2022/12/03/196_196381f8f7d78014791ac3136f0265360c6_1080p-20221203214529/playlist.m3u8
