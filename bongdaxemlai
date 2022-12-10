@@ -1,6 +1,7 @@
 #EXTM3U 
 #EXTINF: list TV
-#EXTINF:-1 tvg-id="kkidshd" group-title="🏀 KÊNH PHÁT WORLD CUP 2022 4K" tvg-logo="https://i.imgur.com/5ubCvQy.jpg",WORLD CUP 2022 4K 1
+#EXTINF:-1 tvg-id="kkidshd" group-title="🏀 KÊNH PHÁT WORLD CUP 2022 4K" tvg-logo="https://i.imgur.com/5ubCvQy.jpg",WORLD CUP 
+#EXTVLCOPT:http-referrer=https://keovip2.tv/
 https://stream.keovip.live/live1/keovip1-transmux.m3u8
 
 #EXTINF:-1 group-title="🏆 KÊNH PHÁT BÓNG ĐÁ WORLD CÚP 2022 🏆" tvg-logo="https://i.imgur.com/VGdNq75.jpg",🏆 WORLD CÚP 2022 🏆 VTV2
