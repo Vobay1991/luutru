@@ -2,6 +2,13 @@
 #EXTINF: list TV
 
 
+#EXTINF:-1 group-title="👉 XEM LẠI BÓNG ĐÁ WORLD CÚP 2022 "tvg-logo="https://223092959.e.cdneverest.net/boxstudio/video/adaptive/2022/12/11/196_196381f8f7d78014791ac3136f0265360c6_1080p-20221211014246/thumb_1.jpg",2022/12/11  TRỰC TIẾP WORLD CUP 2022:ANH VS PHÁP
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://223108787.e.cdneverest.net/boxstudio/video/adaptive/2022/12/11/196_196381f8f7d78014791ac3136f0265360c6_1080p-20221211014246/playlist.m3u8
+
+#EXTINF:-1 group-title="👉 XEM LẠI BÓNG ĐÁ WORLD CÚP 2022 "tvg-logo="https://223092959.e.cdneverest.net/boxstudio/video/adaptive/2022/12/11/196_196381f8f7d78014791ac3136f0265360c6_1080p-20221210214213/thumb_1.jpg",2022/12/11  TRỰC TIẾP WORLD CUP 2022:BỒ ĐÀO NHA  VS MA RỐC
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://223108787.e.cdneverest.net/boxstudio/video/adaptive/2022/12/11/196_196381f8f7d78014791ac3136f0265360c6_1080p-20221210214213/playlist.m3u8
 
 #EXTINF:-1 group-title="👉 XEM LẠI BÓNG ĐÁ WORLD CÚP 2022 " tvg-logo="https://i.mycdn.me/getVideoPreview?id=3280484698759&idx=7&type=39&tkn=XroL6ZrdxXDoJLTS2KcdMgmLc0s&fn=vid_x", Hà Lan - Argentina
 https://vkvd261.mycdn.me/video.m3u8?cmd=videoPlayerCdn&expires=1670899783580&srcIp=27.74.187.145&srcAg=CHROME&ms=45.136.20.182&mid=4799715289223&type=4&sig=SNfY-TDgWWw&ct=8&urls=185.226.52.166&clientType=14&id=3280484698759&m3u8
