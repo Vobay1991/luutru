@@ -1,7 +1,7 @@
 #EXTM3U 
 #EXTINF: list TV
 #EXTINF:-1 group-title="test" tvg-logo="https://sun6-20.userapi.com/qv8CpWNCEfkybWJ_cofPfp8EpoINMHCyOmUt1A/BlO4FdFEnAs.jpg", Liverpool - Crystal Palace 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=LNTVGRoup
 https://stream.keovip.live/live3/keovip3-transmux.m3u8
 
 
