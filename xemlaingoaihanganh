@@ -1,6 +1,10 @@
 #EXTM3U 
 #EXTINF: list TV
 
+#EXTINF:0 group-title="ĐẤU VÕ ĐÀI" tvg-logo="https://i.imgur.com/wTmGnK5.jpg",BOXING 1
+#EXTVLCOPT:http-referrer=https://player.aomeila.cn/
+https://play1nm.hnyongshun.cn/live/sd-1-3851353.m3u8
+
 
 
 
