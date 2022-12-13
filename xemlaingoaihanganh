@@ -1,8 +1,8 @@
 #EXTM3U 
 #EXTINF: list TV
 
-#EXTINF:-1 group-title="🏀  SỰ KIỆN  " tvg-logo="//zq.titan007.com/Image/team/images/165018869978.png?win007=sell",02:00 14/12  Argentina  Croatia
-#EXTVLCOPT:http-referrer=https://keovip2.tv/
+#EXTINF:-1 group-title=" SỰ KIỆN  " tvg-logo="//zq.titan007.com/Image/team/images/165018869978.png?win007=sell",02:00 14/12  Argentina  Croatia
+#EXTVLCOPT:http-If-None-Match="639827bc-ea"
 https://stream.keovip.live/live3/keovip3-transmux.m3u8
 #EXTINF:-1 group-title="👉 XEM LẠI BÓNG ĐÁ WORLD CÚP 2022 "tvg-logo="https://223092959.e.cdneverest.net/boxstudio/video/adaptive/2022/12/11/196_196381f8f7d78014791ac3136f0265360c6_1080p-20221211014246/thumb_1.jpg",2022/12/11  TRỰC TIẾP WORLD CUP 2022:ANH VS PHÁP
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
