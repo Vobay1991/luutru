@@ -1,6 +1,10 @@
 #EXTM3U 
 #EXTINF: list TV
 
+#EXTINF:-1 group-title="| VTV - TV360 | ᴸᴺᵀⱽ ᴳᴿᴼᵁᴾ" tvg-id="vtv2hd" tvg-logo="https://phimmoi.asia/logo/vtv/20221021203923.png", FHD
+#EXTVLCOPT:http-user-agent=LNTVGRoup
+http://live-zlr1.tv360.vn/manifest/VTVCab18_HD/master.m3u8?timestamp=1671075099&token=0e4a5436322c4cd94f09b9f3bae1996d&manifestfilter=video_bitrate:1-4194304       
+
 #EXTINF:-1 group-title="️🏀 TRỰC TIẾP 👉 GIAO HỮU VIỆT NAM vs PHILIPPINES " tvg-logo="https://stvinaprod.vtvcab.vn/720x405/0a72b4b9-3e33-41b8-a07f-4a4261c4c51f.jpg",18h00 14-12-2022 VIỆT NAM vs PHILIPPINES | GIAO HỮU QUỐC TẾ 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://livevlive.vtvcab.vn/hls/OS_THETHAO_TINTUC_HD/index.m3u8
